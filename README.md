@@ -7,7 +7,7 @@
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucas lang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas lang" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lang-lucas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas lang" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
