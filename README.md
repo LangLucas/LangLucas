@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">I'm from 🧉Argentina and i like to create Web Development projects</h3>
+<h3 align="center">I'm from 🧉Argentina</h3>
 
-- 🌱 I’m currently learning **PHP and MySQL**
+- 🌱 I’m currently learning **MySQL**
 
 - 📫 How to reach me **lucaslang2010@gmail.com**
 
